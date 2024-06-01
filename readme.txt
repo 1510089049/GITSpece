@@ -19,4 +19,8 @@ pplhello
 
 :this page is changed
 
+<<<<<<< HEAD
 this is master.branch
+=======
+this is hot-fix branch
+>>>>>>> hot-fix
