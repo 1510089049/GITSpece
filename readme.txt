@@ -24,3 +24,5 @@ this is master.branch
 =======
 this is hot-fix branch
 >>>>>>> hot-fix
+
+GIT Cloud storage is chenged
